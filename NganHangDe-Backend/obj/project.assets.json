@@ -2386,11 +2386,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\winni\\OneDrive\\Desktop\\CURRENT\\NganHangDe-BackEnd-AspNet\\NganHangDe-Backend\\NganHangDe-Backend.csproj",
+      "projectUniqueName": "C:\\Users\\winni\\OneDrive\\Desktop\\Back-End-Ngan-Hang-De\\NganHangDe-Backend\\NganHangDe-Backend.csproj",
       "projectName": "NganHangDe-Backend",
-      "projectPath": "C:\\Users\\winni\\OneDrive\\Desktop\\CURRENT\\NganHangDe-BackEnd-AspNet\\NganHangDe-Backend\\NganHangDe-Backend.csproj",
+      "projectPath": "C:\\Users\\winni\\OneDrive\\Desktop\\Back-End-Ngan-Hang-De\\NganHangDe-Backend\\NganHangDe-Backend.csproj",
       "packagesPath": "C:\\Users\\winni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\winni\\OneDrive\\Desktop\\CURRENT\\NganHangDe-BackEnd-AspNet\\NganHangDe-Backend\\obj\\",
+      "outputPath": "C:\\Users\\winni\\OneDrive\\Desktop\\Back-End-Ngan-Hang-De\\NganHangDe-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\winni\\AppData\\Roaming\\NuGet\\NuGet.Config"
